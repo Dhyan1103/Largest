@@ -1,0 +1,10 @@
+class abc
+{
+	public static void main(String args[])
+	{
+		int a,b;
+		int c;
+		c=a+b;
+	}
+	
+}
